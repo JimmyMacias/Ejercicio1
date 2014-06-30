@@ -16,7 +16,7 @@ public class Ejercicio1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        //;
         int x=0, y=0, a=7, b=6, r=0, m;
         int[] arreglo1=new int[128];
         int[] arreglo2=new int[128];
